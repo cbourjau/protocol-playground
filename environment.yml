@@ -1,0 +1,7 @@
+name: protocol-playground
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - mypy
+  - python
